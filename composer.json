@@ -5,6 +5,7 @@
     "homepage": "https://git.kolab.org/diffusion/RPK/",
     "keywords": ["apps","calendar","ical","itip"],
     "license": "AGPLv3",
+    "version": "3.3.4",
     "authors": [
         {
             "name": "Alensader Machniak",
